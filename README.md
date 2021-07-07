@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary>:zap: Devansh2308 Stats</summary>
 
   <img align="left" alt="Devansh2308's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Devansh2308&show_icons=true&hide_border=true" />
@@ -51,4 +51,4 @@
 
 [facebook]: https://www.facebook.com/cooldk23/
 [instagram]: https://www.instagram.com/devansh2308/
-[linkedin]: https://www.linkedin.com/in/devansh-kumar-sharma-580452189/
+[linkedin]: https://www.linkedin.com/in/devansh-kumar-sharma-580452189/ -->
