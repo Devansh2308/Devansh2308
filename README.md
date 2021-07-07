@@ -44,7 +44,7 @@
 <!-- <details>
   <summary>:zap: Devansh2308 Stats</summary> -->
 
-  <img align="left" alt="Devansh2308's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Devansh2308&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img align="left" alt="Devansh2308's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Devansh2308&show_icons=true&hide_border=true&private=true&include_all_commits=true" />
 
 <!-- </details> -->
 
