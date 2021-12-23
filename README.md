@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer!!
 
-- 🔭 I am a frontend intern at Appointy India
+- 🔭 I am a frontend Developer at Appointy India
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects & to do more and more leetcoding
 - ⚡ Fun fact: I love to draw and play guitar / drums
